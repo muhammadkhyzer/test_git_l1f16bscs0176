@@ -1,1 +1,3 @@
 "name: muhammad khyzer naeem"' 
+email: m.khyzernaeem@gmail.com
+faculty of information technology
